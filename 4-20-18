@@ -1,0 +1,1 @@
+Today I completed my sequelize project and learned more about routes. I was blocked today on my route formation, where I placed my '/featured' route after my '/:id' route and it would never run the featured route. Now i know that anything with params need to come after the other set routes.
