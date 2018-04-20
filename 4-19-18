@@ -1,0 +1,3 @@
+Today i learned how sequealize and mySQL compare to mongoDB and mongoose.
+I also learned about add-ons for heroku such as MLABS for mongo heroku pushes.
+I had issues with mySQL access and password resets which appears to be a common issue with mySQL.
