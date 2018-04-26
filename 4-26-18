@@ -1,0 +1,1 @@
+Today I learned about CSS less files and how they compile a style.css file in your dist directory. Although I was looking into the LESS files today, I did not dive to deeply into creating variables and such so I still have more to learn with LESS files.. I spent most of today styling my react200 weather app after learning about LESS
