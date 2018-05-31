@@ -1,0 +1,1 @@
+Today i learned about the ascii table in relation to each character having it's own deci number. Also during our morning codewar, I dove into charCodeAt and learned about that function to retrieve the ascii of the specific index entered.
